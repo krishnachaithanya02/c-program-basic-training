@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-int x[100],n,i,z;
+int x[10],n,i,z;
 printf("enter a number of elements:");
 scanf("%d",&n);
 printf("enter a elements:");
