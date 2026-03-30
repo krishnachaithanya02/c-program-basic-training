@@ -1,0 +1,5 @@
+ ~/addition$ touch sum.c sum.h main.c
+chaithanya@DESKTOP-KO440GS:~/addition$ ls
+main.c  sum.c  sum.h~/addition$ touch sum.c sum.h main.c
+chaithanya@DESKTOP-KO440GS:~/addition$ ls
+main.c  sum.c  sum.h
