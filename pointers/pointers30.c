@@ -1,12 +1,14 @@
 #include <stdio.h>
+void find_2digit_odd_sum7();
+
 int main(void)
 {
-    find_2digit_odd_sum7();
+    
+    find_2digit_odd_sum7(); 
     return 0;
 }
 
-
-void find_2digit_odd_sum7(void)
+void find_2digit_odd_sum7()
 {
     int num;
     int *ptr;
@@ -26,4 +28,4 @@ void find_2digit_odd_sum7(void)
             }
         }
     }
-
+}
