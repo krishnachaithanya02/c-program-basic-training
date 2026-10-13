@@ -7,7 +7,7 @@ a=10;
 b=20;
 c=25;
 
-c=add(a,b);   //30 deposit here
+c=add(a,b);   //holds 25 very next function return overwrites the value to 30
 printf("%d",c);
 }
 
